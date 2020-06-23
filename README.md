@@ -4,7 +4,7 @@
 
 This directory is a brief example of a [Hexo](https://hexo.io/) site that can be deployed with Vercel and zero configuration.
 
-## Deploy Your Own
+## Deploy Your Own 6666
 
 Deploy your own Hexo project with Vercel.
 
