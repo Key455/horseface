@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: fluid #指定主题
+title: Hexo
 subtitle:
 description:
 keywords:
 author: John Doe
-language: zh-CN #指定语言，不可更改
+language:
 timezone:
 
 # URL
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: fluid
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
