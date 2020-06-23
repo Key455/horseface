@@ -12,6 +12,8 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 
 ## 今天天气是真的好
 
+## 今天天气是真的好
+
 ### Create a new post
 
 ```bash
