@@ -6,11 +6,7 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 
 ## Quick Start
 
-## 马脸冲冲冲
-
-## 今天天气真好哦
-
-## 今天天气是真的好
+## 今天天气真好
 
 ### Create a new post
 
