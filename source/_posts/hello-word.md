@@ -1,5 +1,7 @@
 ---
 title: 清除浮动影响的方法
+banner_img: /img/bg.jpg
+index_img: /img/bg.jpg
 ---
 
 # 清除浮动影响的方法
@@ -41,21 +43,15 @@ title: 清除浮动影响的方法
 
      当一个元素需要清除浮动的时候 直接设置clearFix类名即可
 
-     
-
-     ```css
-     .clearFix:after{
-         content:"\200B";  必须拥有content属性   内容为空
-         display: block;   必须块标签才能清浮动
-         height: 0;          高度为0 不占用空间
-         clear: both;        清除浮动
-     }
-     
-     .clearFix{  //兼容ie
-         *zoom:1;    //*是css  hack 只有ie6.7 认识
-         ie6、7 不支持伪元素，所以需要开启元素的haslayout来清除浮动
-     }
-     ```
-
-  
-
+```css
+   .clear:after{
+      display: block;   /* 必须块标签才能清浮动 */
+      height: 0;        /*高度为0 不占用空间*/
+      content:"";       /*必须拥有content属性   内容为空*/
+      clear:both;       /*清除浮动*/
+   }
+   /* .clearFix{  //兼容ie
+      *zoom:1;      //*是css  hack 只有ie6.7 认识
+                  ie6、7 不支持伪元素，所以需要开启元素的haslayout来清除浮动
+   }  */
+```
