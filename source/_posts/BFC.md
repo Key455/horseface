@@ -2,8 +2,8 @@
 title: BFC(块级格式化上下文)
 date: 2020-06-23 20:05:03
 tags:
-banner_img: /img/bg.jpg
-index_img: /img/bg.jpg
+banner_img: /img/bfc.jpg
+index_img: /img/bfc.jpg
 ---
 # BFC(块级格式化上下文)
 

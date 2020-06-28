@@ -2,8 +2,8 @@
 title: 清除浮动影响的方法
 date: 2020-06-22 20:05:03
 tags:
-banner_img: /img/bg.jpg
-index_img: /img/bg.jpg
+banner_img: /img/clearfix.jpg
+index_img: /img/clearfix.jpg
 ---
 
 # 清除浮动影响的方法
